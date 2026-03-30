@@ -1,40 +1,50 @@
-# 👋 Sodikin | AI Orchestrator
+# 👋 Halo, saya Sodikin
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SUL***%20Eng**-Operasional-success?style=for-the-badge&logo=probot&logoColor=white" alt="SUL*** Eng** Status">
-  <img src="https://img.shields.io/badge/Fokus-Agen%20Otonom-blue?style=for-the-badge" alt="Fokus">
-  <img src="https://img.shields.io/badge/Peran-Orchestrator-orange?style=for-the-badge" alt="Peran">
+  <img src="https://img.shields.io/badge/Sultan%20Engine-Active-success?style=for-the-badge&logo=probot&logoColor=white" alt="Sultan Engine Status" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Orchestration-blue?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Role-Builder%20%26%20Automation%20Engineer-orange?style=for-the-badge" alt="Role" />
 </p>
 
-### 🧠 Ringkasan Profil
-Saya adalah seorang **AI Orchestrator** yang berfokus pada pembangunan ekosistem agen otonom. Pekerjaan saya berpusat pada transformasi data internal yang kompleks menjadi kecerdasan yang dapat ditindaklanjuti dan layanan terkelola melalui **SUL*** Eng**.
+Saya membangun sistem otomasi yang **praktis, terukur, dan siap produksi**—mulai dari social media workflow, agent orchestration, sampai backend API untuk kebutuhan operasional harian.
 
 ---
 
-### 🚀 Persenjataan Teknis
-- **Inti:** Agen AI Otonom, Sistem Multi-Agen, Alur Kerja Agentic.
-- **Backend:** Node.js (Bun/Hono), Python (Flask/FastAPI), PHP (Laravel).
-- **Otomatisasi:** Bot Posting Otomatis LinkedIn/FB, Hub AI Terkelola, Manajer Webhook.
-- **Infrastruktur:** Docker, OpenCloudOS, Nginx, Git-Ops.
+## 🧠 Fokus Utama
+- **AI Orchestration:** desain alur kerja multi-agent yang stabil dan bisa diaudit.
+- **Automation Engine:** auto-posting, webhook processing, dan task pipeline.
+- **Backend Engineering:** API modular untuk integrasi lintas platform.
+- **Ops & Reliability:** deployment, monitoring, serta hardening environment.
 
 ---
 
-### 📂 Ekosistem Unggulan
-- **[SUL*** Eng**]**: Mesin AI otonom utama saya untuk layanan terkelola.
-- **[Langit Kopi]**: Implementasi nyata dari sistem pemesanan & manajemen otomatis.
-- **[Dashboard Brain]**: Pemantauan terpusat untuk sumber daya server dan penyebaran nanobot.
+## ⚙️ Tech Stack
+- **Backend:** Node.js (Hono/Bun), Python (FastAPI/Flask), PHP (Laravel)
+- **Infra:** Docker, Nginx, Linux/OpenCloudOS, GitHub Actions
+- **Workflow:** Agentic pipelines, webhook-driven automation, GitOps
 
 ---
 
-### 📊 Statistik GitHub
+## 🚀 Highlight Projects
+- **Sultan Engine** → framework otomasi dan orkestrasi utama.
+- **General Social Orchestrator** → integrasi posting lintas platform.
+- **Smart Report Plugin** → insight operasional berbasis data.
+- **Langit Kopi Ecosystem** → implementasi real-world booking & automation.
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sodikinnaa&show_icons=true&theme=tokyonight&count_private=true" alt="Statistik GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=sodikinnaa&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
-### 💬 Hubungi Saya
-- **Website:** [sodikinnaa.my.id](https://sodikinnaa.my.id)
-- **Instagram:** [@sodikin.tso](https://www.instagram.com/sodikin.tso/)
-- **Facebook:** [wakdondin](https://www.facebook.com/wakdondin/)
+---
+
+## 📫 Connect
+- 🌐 Website: https://sodikinnaa.my.id
+- 📸 Instagram: https://www.instagram.com/sodikin.tso/
+- 📘 Facebook: https://www.facebook.com/wakdondin/
 
 ---
-*“Insinyur di tahun 2026 bukan sekadar penulis kode; mereka adalah Orchestrator.”*
+
+> *"Engineer modern bukan cuma menulis kode—tapi merancang sistem yang bergerak sendiri, tetap terkontrol, dan memberi dampak nyata."*
